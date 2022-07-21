@@ -1,7 +1,14 @@
-Hi smile please
 
+<<<<<<< HEAD
 
 
 How are you
 
 hope your doing good
+=======
+What is this .
+
+Please check and update
+
+Ok sorry. I will update.
+>>>>>>> f9240dd3cfe35fa54766a4f318ac59c573b4010b
